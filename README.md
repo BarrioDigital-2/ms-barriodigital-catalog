@@ -12,7 +12,7 @@ No se conecta con el frontend: lo consume `ms-barriodigital-requests` al admitir
 ## Cómo levantar (local)
 
 ```powershell
-# 1. Infraestructura (MySQL en el puerto 3307), desde ms-barriodigital-notifications
+# 1. Infraestructura (MySQL en el puerto 3307), desde barriodigital-infra/local
 docker compose up -d
 
 # 2. Este microservicio

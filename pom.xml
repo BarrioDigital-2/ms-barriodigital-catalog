@@ -11,8 +11,9 @@
 	<groupId>cl.duoc</groupId>
 	<artifactId>ms-barriodigital-catalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+		<name>ms-barriodigital-catalog</name>
+	<description>CRUD de tipos de trámite y cupos para BarrioDigital</description>
+
 	<url/>
 	<licenses>
 		<license/>
